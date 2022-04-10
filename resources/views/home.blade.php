@@ -31,7 +31,7 @@
 
     <h5 class="subtitle">The best articles on the top tech trends are here.</h5>
     <a href="{{ route('blogs.index') }}" class="btn btn-primary">Read Now</a>
-    <img class="image" src="https://www.sodapdf.com/blog/wp-content/uploads/2019/01/blog-best-tech-websites.jpg" alt="">
+    <img class="image" src="https://cdn2.hubspot.net/hubfs/389011/Technology_Blogs.jpg" alt="">
 
 </div>
 @endsection
